@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55c357cb-4be9-4d97-9855-db8774fa4088" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ay2Ch9BhgT74koqfQbY2JrI6Q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LoginDisplayController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.LoginDisplayController" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainManagementSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.MainManagementSheet" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagementDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.ManagementDisplay" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagementDisplayController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ManagementDisplayController" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ManagementDisplayController" />
+        <item itemvalue="Application.LoginDisplayController" />
+        <item itemvalue="Application.ManagementDisplay" />
+        <item itemvalue="Application.MainManagementSheet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#SQL_Dialects" timestamp="1587701554446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1587701554446" />
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1587724321338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587724321338" />
+    <state x="60" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587701898029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="60" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587701898029" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587701811458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587701811458" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1587724454098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587724454098" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1587724454098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587724454098" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1587724454098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587724454098" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1587724454098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587724454098" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587701814982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587701814982" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1587720847460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587720847460" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1587724353944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587724353944" />
+  </component>
+</project>
